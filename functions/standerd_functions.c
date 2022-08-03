@@ -12,6 +12,7 @@
 
 int main()
 {
-    /* code */
+    int a, b, c, d, e;
+    
     return 0;
 }
